@@ -1,6 +1,6 @@
 # CMOS High-Side Gate Driver for Power NMOS Control
 
-Project developed as part of the **BTM course**  
+Project developed as part of the **Fundamentals of Microelectronics Technology course**  
 **University POLITEHNICA of Bucharest – Faculty of Electronics, Telecommunications and Information Technology**
 
 ## Overview
