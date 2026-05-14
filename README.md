@@ -313,10 +313,4 @@ The design process also highlights an important practical aspect of analog and m
 - mixed-signal functional verification
 - hierarchical block integration
 
-## Repository Structure
 
-```text
-├── Images/
-├── Presentation/
-├── Simulations/
-└── README.md
